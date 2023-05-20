@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Learn Your Shapes!</title>
+  </head>
+  
+  <body>
+    <div>
+    <h1 style="text-align:center">Introduction!</h1>
+    <p style="text-align:center"><b>I am <i>Ryan George!</i> As a part of my HTML course, I am required to make a web page. Because of this, I made this website to help people like you learn their shapes! We will go over several shapes today, you can read about each one in the text below the image. I hope this website helps you in learning shapes and just how cool they can be!</b></p>
+    </div>
+    <div>
+      <h1 style="text-align:center"><span style="color:#FF0000">S</span><span style="color:#FF8800">Q</span><span style="color:#FFFF00">U</span><span style="color:#00FF00">A</span><span style="color:#0000FF">R</span><span style="color:#8800FF">E</span></h1>
+      
+      <center><img src="https://duckduckduct.weebly.com/uploads/1/4/1/3/141335240/untitled-design_orig.png" style="width:175px;height175px"/></center>
+      
+      <p style="text-align:center"><b>Squares are basic shapes and they are everywhere! Squares have 4 sides, making them quadrilaterals. The sides they have also happen to all be the same length. This means that if one side has a length of 7 inches, so do all the others! Squares also have 4 angles, all of which are equal at 90 degrees! Squares are facinating shapes and although they may be simple, they're really cool!</b></p>
+    </div>
+    <div>
+      <h1 style="text-align:center"><span style="color:#FF0000">C</span><span style="color:#FF8800">I</span><span style="color:#FFFF00">R</span><span style="color:#00FF00">C</span><span style="color:#0000FF">L</span><span style="color:#8800FF">E</span></h1>
+      
+      <center><img src="https://duckduckduct.weebly.com/uploads/1/4/1/3/141335240/circle_orig.png" style="width:175px;height175px"/></center>
+      
+      <p style="text-align:center"><b>Circles can be seen all around you, whether it be in objects like pens, soda cans, or watches. Circles dont have sides, but instead a singlular connected line. Circles posses a radius, (the distance between the center and the outside), a diameter (the distance from one point on the outside cirle to the exact opposite of it), the circumfrence (the distance of the outside line), and more! Circular objects can roll due to having no defined sides! Circles are amazing!</b></p>
+    </div>
+    <div>
+      <h1 style="text-align:center"><span style="color:#FF0000">T</span><span style="color:#FF8800">R</span><span style="color:#FFFF00">I</span><span style="color:#00FF00">A</span><span style="color:#0000FF">N</span><span style="color:#8800FF">G</span><span style="color:#FF0000">L</span><span style="color:#FF8800">E</span></h1>
+      
+      <center><img src="https://duckduckduct.weebly.com/uploads/1/4/1/3/141335240/triangle_orig.png" style="width:175px;height175px"/></center>
+      
+      <p style="text-align:center"><b>Triangles are another shape that appear everywhere! Triangles are actually the strongest shape found in nature. Due to this, lots of structures, such as bridges, use triangles for their strength. There are different types of triangles, these are: Equilateral, Isoceles, and Scalene. These each have different properties. You can also classify them by their angles, such as Right Triangles, Obtuse Triangels, and Acute Triangles. The total angle of a triangle is 180 degrees in comparison to the Square and the Circle whose angles add up to 360 degrees. Triangles are really interesting!</b></p>
+    </div>
+    <div>
+      <h1 style="text-align:center"><span style="color:#FF0000">W</span><span style="color:#FF8800">a</span><span style="color:#FFFF00">n</span><span style="color:#00FF00">t</span><span style="color:#0000FF"> T</span><span style="color:#8800FF">o</span><span style="color:#FF0000"> L</span><span style="color:#FF8800">e</span><span style="color:#FF0000">a</span><span style="color:#FF8800">r</span><span style="color:#FFFF00">n</span><span style="color:#00FF00"> M</span><span style="color:#0000FF">o</span><span style="color:#8800FF">r</span><span style="color:#FF0000">e</span><span style="color:#FF8800">?</span></h1>
+      <p style="text-align:center"><b>After learning the basics of shapes, you might want to move onto something a bit more advanced. If you want to continue to learn, you can click on <a href="https://wikipedia.org/wiki/Tesseract">this</a> to learn about more advanced shapes. Have fun!</b></p>
+      <h1 style="text-align:center"><span style="color:#FF0000">Q</span><span style="color:#FF8800">u</span><span style="color:#FFFF00">e</span><span style="color:#00FF00">s</span><span style="color:#0000FF">t</span><span style="color:#8800FF">i</span><span style="color:#FF0000">o</span><span style="color:#FF8800">n</span><span style="color:#FF0000">s</span><span style="color:#FF8800">?</span></h1>
+      <p style="text-align:center"><b>You can email me by clicking <a href="mailto:ryan.george126@gmail.com">this!</a></b></p>
+    </div>
+  </body>
+  
+</html>
